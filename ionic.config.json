@@ -1,0 +1,7 @@
+{
+  "name": "nextmatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
