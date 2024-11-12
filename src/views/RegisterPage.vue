@@ -1,21 +1,19 @@
 <template>
-<ion-page>
-<ion-content>
+<form>
 
 
 
 
 
 
-    
-</ion-content>
-</ion-page>
+
+</form>
 </template>
 <script>
-import {IonPage,IonContent} from '@ionic/vue';
+import {IonPage,IonContent,IonInput, IonButton, IonItem, IonLabel} from '@ionic/vue';
 export default {
 components:{
-IonPage,IonContent
+IonPage,IonContent,IonInput, IonButton, IonItem, IonLabel
 },
 data(){return{
 
